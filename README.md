@@ -29,9 +29,9 @@ g++ -o delivery_app TERM-PROJ-LBYEC2B-V2.cpp
 ```
 
 ### Demo
-![menu](menu.png)
-![receipt](work receipt.png)
-![savepoint](savepoint.png)
+![menu](menu.PNG)
+![receipt](work receipt.PNG)
+![savepoint](savepoint.PNG)
 ### Authors
 - Miro Hernandez
 - Joaquin Gasmido
