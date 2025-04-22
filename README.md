@@ -30,7 +30,7 @@ g++ -o delivery_app TERM-PROJ-LBYEC2B-V2.cpp
 
 ### Demo
 ![menu](menu.PNG)
-![receipt](work receipt.PNG)
+![receipt](work%20receipt.PNG)
 ![savepoint](savepoint.PNG)
 ### Authors
 - Miro Hernandez
